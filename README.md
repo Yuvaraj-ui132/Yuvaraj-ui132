@@ -109,16 +109,6 @@ I'm a passionate **Full Stack Developer** and **AI Integrator** focused on build
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🐕 Dog vs Cat Classifier</h3>
-      <p>Deep Learning (CNN) model for high-accuracy image classification.</p>
-      <ul>
-        <li>🖼️ Trained on large datasets using CNNs</li>
-        <li>⚡ Efficient processing with optimized layers</li>
-      </ul>
-      <a href="https://github.com/Yuvaraj-ui132/SCT_ML_3">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
     </td>
     </td>
   </tr>
