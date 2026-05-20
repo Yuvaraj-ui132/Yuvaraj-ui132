@@ -120,16 +120,6 @@ I'm a passionate **Full Stack Developer** and **AI Integrator** focused on build
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🐦 Flappy Bird (Java)</h3>
-      <p>Classic Flappy Bird game built from scratch in Java with smooth physics and custom graphics.</p>
-      <ul>
-        <li>🎮 Custom game loop & physics engine</li>
-        <li>🖼️ Sprite-based animation</li>
-      </ul>
-      <a href="https://github.com/ramappayaragudri1/Flappy_Bird_Game">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
     </td>
   </tr>
 </table>
