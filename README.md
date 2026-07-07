@@ -1,8 +1,13 @@
-< div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yuvaraj%20Murkunde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvaraj%20Murkunde&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator%20%7C%20DSA%20Builder&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=🚀+Building+Intelligent+Systems;💡+Full+Stack+%2B+AI+Integration;🌐+Flask+•+React+•+Firebase+•+Node;🤖+Turning+Ideas+Into+Working+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=⚡+Building+Intelligent+Systems;🔥+Full+Stack+%2B+AI+Integration;🌐+Flask+•+React+•+Firebase+•+Node.js;🧠+Turning+bold+ideas+into+real+products)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Yuvaraj-ui132?label=Followers&style=for-the-badge&logo=github&color=6E40C9)](https://github.com/Yuvaraj-ui132)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yuvaraj-ui132&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/Yuvaraj-ui132)
 
 </div>
 
@@ -10,109 +15,69 @@
 
 ## 👋 About Me
 
-> *"Learning, building, and improving with every project."*
+> *"I don't just learn — I build, ship, and iterate."*
 
-I'm a passionate **Full Stack Developer** and **AI Integrator** focused on building real-world intelligent systems. I combine modern web technologies with machine learning to create impactful, production-ready solutions.
+I'm a passionate **Full Stack Developer** and **AI Integrator** from Karnataka, India. I specialize in combining modern web technologies with machine learning to create production-ready, impactful applications.
 
-- 🎓 **Information Science Student**
-- 💻 **Full Stack Developer** — Flask • React • Node.js • Firebase
-- 🤖 **Exploring AI-driven systems** & intelligent applications
+```yaml
+name:        Yuvaraj Murkunde
+role:        Full Stack Developer & AI Integrator
+education:   Information Science Engineering
+location:    Karnataka, India
+focus:       Building real-world intelligent systems
+currently:   ⚡ AlgoForge — DSA Dashboard for placement prep
+```
+
+- 🎓 **Information Science Student** — passionate about turning theory into real products
+- 💻 **Full Stack** — Flask · React · Node.js · Firebase · HTML/CSS/JS
+- 🤖 **AI Integration** — building intelligent, data-driven applications
 - 📜 **ISOC Certified** — Designing & Deploying Computer Networks (DDCN)
 - 📊 **Published** Bengaluru Metro Network Dataset
-- 🌍 Based in **Karnataka, India**
+- 🚀 **Latest Project** — [⚡ AlgoForge](https://algoquest-9aab0.web.app) — Live DSA Dashboard
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👤 Languages
+### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### ☁️ Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🗄️ Databases
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 SoilAI</h3>
-      <p>AI-powered geotechnical soil analysis platform for civil engineers. Automates lab test calculations and generates PDF reports.</p>
-      <ul>
-        <li>🧪 Proctor Compaction & Moisture Tests</li>
-        <li>📊 Interactive Charts & Analysis</li>
-        <li>🔐 Firebase Auth & Firestore</li>
-        <li>🌐 Deployed on Firebase Hosting</li>
-      </ul>
-      <a href="https://github.com/Yuvaraj-ui132/SoilAi">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ Belagavi Tourism Planner</h3>
-      <p>Professional PWA for exploring Belagavi with traffic-aware routing and AI integration.</p>
-      <ul>
-        <li>📍 Interactive Maps & Clustering (Google Maps API)</li>
-        <li>🚗 Real-time Navigation & Traffic Data</li>
-        <li>🔐 Firebase Secure Auth</li>
-        <li>💰 Integrated Trip Budget Manager</li>
-      </ul>
-      <a href="https://github.com/Yuvaraj-ui132/Belagavi_Tourism">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 House Price Prediction</h3>
-      <p>Machine Learning model using Linear Regression to predict real estate prices.</p>
-      <ul>
-        <li>📈 Data Cleaning & Feature Engineering</li>
-        <li>🤖 Optimized for high prediction accuracy</li>
-      </ul>
-      <a href="https://github.com/Yuvaraj-ui132/SCT_ML_1">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ Customer Segmentation</h3>
-      <p>Unsupervised learning using K-Means clustering for market analysis.</p>
-      <ul>
-        <li>📊 Grouping customers by purchase history & demographics</li>
-        <li>📈 Visualized clusters for business insights</li>
-      </ul>
-      <a href="https://github.com/Yuvaraj-ui132/SCT_ML_2">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    </td>
-    </td>
-  </tr>
-</table>
+### ⚡ [AlgoForge](https://algoquest-9aab0.web.app) — Live DSA Dashboard
+> A premium in-browser DSA practice platform for placement preparation
+
+- 🖥️ **Monaco Editor** (VS Code engine) for in-browser coding
+- ⚙️ **Judge0 CE API** for real-time code execution with runtime & memory stats
+- 🔥 **Firebase** Auth + Firestore for sync across devices
+- 📊 **Chart.js** analytics — topic-wise and tier-wise progress tracking
+- 🌗 Dark/Light mode, glassmorphism UI, smooth animations
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-algoquest--9aab0.web.app-6E40C9?style=for-the-badge)](https://algoquest-9aab0.web.app)
+[![Repo](https://img.shields.io/badge/GitHub-AlgoForge-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/AlgoQuest)
 
 ---
 
@@ -133,23 +98,23 @@ I'm a passionate **Full Stack Developer** and **AI Integrator** focused on build
 
 ---
 
-## 🎯 What Makes Me Different
-
-| Trait | Description |
-|-------|-------------|
-| 🚀 **Real-World Focus** | Building solutions for actual problems, not just practice projects |
-| 🧠 **AI + Full Stack** | Actively combining AI with full-stack development |
-| 📈 **Continuous Growth** | Strong mindset of learning and improvement every day |
-| ⚡ **Fast Execution** | Quick to adapt, learn, and turn ideas into working systems |
-| 🌐 **End-to-End** | From UI design to ML models to cloud deployment |
-
----
-
-## 📫 Connect With Me
+## 🏆 Achievements
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yuvaraj--ui132-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvaraj-ui132)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yuvaraj-ui132&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Yuvaraj--ui132-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-murkunde)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvaraj@example.com)
 
 </div>
 
@@ -157,8 +122,8 @@ I'm a passionate **Full Stack Developer** and **AI Integrator** focused on build
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-*⭐ If you like my work, consider starring my repositories!*
+*Built with ❤️ by Yuvaraj · Always learning, always shipping* 🚀
 
 </div>
