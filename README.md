@@ -163,17 +163,6 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj-ui132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj-ui132&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -185,18 +174,6 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
