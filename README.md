@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvaraj%20Murkunde&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrator%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=⚡+Building+AlgoForge+—+DSA+Dashboard;🤖+AI+%2B+ML+%2B+Full+Stack+Developer;🌐+Flask+•+React+•+Firebase+•+Node.js;🧠+Turning+bold+ideas+into+real+products;🚀+Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=🤖+AI+%2B+ML+%2B+Full+Stack+Developer;🌐+Flask+•+React+•+Firebase+•+Node.js;☁️+Cloud+Computing+%7C+Firebase+%7C+Firestore;🧠+Turning+bold+ideas+into+real+products;🚀+Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Yuvaraj-ui132?label=Followers&style=for-the-badge&logo=github&color=6E40C9)](https://github.com/Yuvaraj-ui132)
 [![Profile Views](https://komarev.com/ghpvc/?username=Yuvaraj-ui132&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/Yuvaraj-ui132)
-[![GitHub Stars](https://img.shields.io/github/stars/Yuvaraj-ui132?style=for-the-badge&logo=github&color=6E40C9&label=TOTAL+STARS)](https://github.com/Yuvaraj-ui132)
 
 </div>
 
@@ -18,21 +16,21 @@
 
 > *"I don't just learn — I build, ship, and iterate."*
 
-I'm a passionate **Full Stack Developer** and **AI/ML Integrator** from Karnataka, India. I combine modern web technologies with machine learning to create production-ready, impactful applications.
+I'm a passionate **Full Stack Developer** and **AI/ML Integrator** from Karnataka, India. I combine modern web technologies with machine learning and cloud computing to create production-ready, impactful applications.
 
 ```yaml
 name:        Yuvaraj Murkunde
 role:        Full Stack Developer & AI Integrator
 education:   Information Science Engineering
 location:    Karnataka, India
-focus:       Web apps, AI systems, DSA & placement prep
-currently:   ⚡ AlgoForge — Live DSA Dashboard (Firebase Hosted)
+focus:       Web apps, AI systems, Cloud platforms & DSA
 interests:   ML · Computer Vision · Full Stack · Open Source
 ```
 
 - 🎓 **Information Science Student** — turning theory into real products
 - 💻 **Full Stack** — Flask · React · Node.js · Firebase · HTML/CSS/JS
 - 🤖 **AI & ML** — Computer Vision, Clustering, Regression, Streamlit apps
+- ☁️ **Cloud Computing** — Firebase PaaS, Firestore, distributed systems
 - 📜 **ISOC Certified** — Designing & Deploying Computer Networks (DDCN)
 - 📊 **Published** Bengaluru Metro Network Dataset
 - 🌍 Based in **Karnataka, India**
@@ -59,6 +57,7 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 
 ### ☁️ Cloud & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,73 +71,93 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 
 ## 🚀 Projects
 
+---
+
 ### ⚡ [AlgoForge](https://algoquest-9aab0.web.app) — DSA Dashboard
 > Premium in-browser DSA practice platform for placement preparation — **Live on Firebase Hosting**
 
-- 🖥️ **Monaco Editor** (VS Code engine) — in-browser coding with syntax highlighting
-- ⚙️ **Judge0 CE API** — real-time code execution with runtime & memory stats
-- 🔥 **Firebase Auth + Firestore** — secure login, synced progress across devices
-- 📊 **Chart.js** analytics — topic-wise and tier-wise progress visualization
-- 🌗 Dark/Light mode · Glassmorphism UI · Smooth animations
-- 🎯 TCS NQT · TCS Digital · Infosys · Wipro · FAANG problem sets
+**Tech:** `JavaScript` `Monaco Editor` `Judge0 API` `Firebase Auth` `Firestore` `Chart.js`
+
+- 🖥️ Monaco Editor (VS Code engine) — in-browser coding with syntax highlighting & themes
+- ⚙️ Judge0 CE API — real-time code execution with runtime & memory stats per test case
+- 🔥 Firebase Auth + Firestore — secure login, progress synced across all devices in real-time
+- 📊 Chart.js analytics — topic-wise and tier-wise progress visualization
+- 🌗 Dark/Light mode · Glassmorphism UI · Smooth micro-animations
+- 🎯 Covers TCS NQT · TCS Digital · Infosys · Wipro · FAANG problem patterns
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-algoquest--9aab0.web.app-6E40C9?style=for-the-badge)](https://algoquest-9aab0.web.app)
 [![Repo](https://img.shields.io/badge/GitHub-AlgoForge-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/AlgoQuest)
 
 ---
 
-### 🏙️ [Belagavi Tourism](https://github.com/Yuvaraj-ui132/Belagavi_Tourism) — Tourism Web App
-> An interactive tourism website for Belagavi, Karnataka
+### 🌱 [SoilAI Cloud Lab](https://github.com/Yuvaraj-ui132/SoilAi) — Geotechnical Engineering Analytics Platform
+> Cloud-based platform to automate Moisture Content and Standard Proctor Compaction Test analysis — replacing manual lab calculations with a digital engineering solution
 
-- 🗺️ Explore tourist attractions, local culture, and travel guides
-- 💻 Built with **JavaScript**, HTML & CSS
-- 📱 Responsive design for all devices
+**Tech:** `HTML` `CSS` `JavaScript` `Flask` `Firebase Auth` `Firestore` `Chart.js` `jsPDF`
 
-[![Repo](https://img.shields.io/badge/GitHub-Belagavi_Tourism-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)
+- 🧪 **Moisture Content Calculator** & **Standard Proctor Compaction Test** analysis with automatic engineering calculations
+- 📈 **Compaction Curve Generation** — automatically identifies **Optimum Moisture Content (OMC)** and **Maximum Dry Density (MDD)**
+- 🔬 **Trial-by-Trial Comparison** and **Multi-Site Soil Comparison** for evaluating compaction performance across different sites
+- 🏗️ **Construction Suitability Analysis** — geotechnical recommendations for foundations, road construction, and earthworks
+- 🔥 **Firebase Firestore** — real-time cloud sync, concurrent client access, distributed cloud database (PaaS)
+- 📄 **PDF Report Generation** — professional engineering reports with graphs and analysis results
+- ☁️ Demonstrates **Cloud Computing** (Firebase PaaS), **Distributed Systems**, and client-server architecture
 
----
-
-### 🌱 [SoilAi](https://github.com/Yuvaraj-ui132/SoilAi) — AI Soil Analysis
-> AI-powered soil analysis and recommendation system
-
-- 🧪 Analyzes soil health and provides crop recommendations
-- 🌾 Built to help farmers make data-driven decisions
-- 🔬 Frontend built with **HTML/CSS/JS**
-
-[![Repo](https://img.shields.io/badge/GitHub-SoilAi-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/SoilAi)
+[![Repo](https://img.shields.io/badge/GitHub-SoilAI_Cloud_Lab-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/SoilAi)
 
 ---
 
-### 🏠 [Home Vision — SCT_ML_1](https://github.com/Yuvaraj-ui132/SCT_ML_1) — House Price Predictor
-> Data-driven web app built with Streamlit for house price prediction & market analysis
+### 🏙️ [Belagavi Smart Tourism Planner](https://github.com/Yuvaraj-ui132/Belagavi_Tourism) — Full-Stack Tourism Platform
+> Full-stack web and Android tourism platform for discovering, exploring, and planning trips across Belagavi district with intelligent travel assistance and personalized planning
 
-- 📈 **ML Regression** model for accurate price prediction
-- 📊 Interactive **Streamlit** dashboard with real estate insights
-- 🔍 Key market trend analysis and feature importance visualization
-- 🐍 Built with **Python**, Pandas, scikit-learn
+**Tech:** `JavaScript` `HTML` `CSS` `Firebase Auth` `Firestore` `Google Maps API` `Android`
+
+- 🗺️ **Rich Destination Profiles** — historical monuments, temples, waterfalls, wildlife, museums with deep history, architecture, cultural significance, local tips & nearby attractions
+- 🤖 **Intelligent Travel Assistance** — personalized trip planning, dynamic travel suggestions, and route optimization
+- 📍 **Google Maps + Live GPS** — location-aware navigation, real-time distance calculations, and route planning based on current location
+- 🔐 **Firebase Auth** — Email/Password and **Google Sign-In** for secure accounts across web and Android
+- ❤️ **Personalized Features** — wishlists, expense tracking, reviews, ratings, and cloud-synced user data
+- ☁️ **Real-time Firestore sync** between web and Android apps — offline-friendly architecture
+- 📱 **Native Android App** alongside the responsive web platform with seamless cross-platform data sync
+- 🌦️ Weather info, trekking details, safety guidance, and category-specific content (dynasties for forts, sacred significance for temples, etc.)
+
+[![Repo](https://img.shields.io/badge/GitHub-Belagavi_Smart_Tourism-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)
+
+---
+
+### 🏠 [Home Vision](https://github.com/Yuvaraj-ui132/SCT_ML_1) — House Price Predictor
+> Data-driven Streamlit web app for house price prediction and real estate market analysis
+
+**Tech:** `Python` `Streamlit` `scikit-learn` `Pandas` `Matplotlib`
+
+- 📈 ML Regression model for accurate house price prediction
+- 📊 Interactive dashboard with key market trend analysis
+- 🔍 Feature importance visualization and real estate insights
 
 [![Repo](https://img.shields.io/badge/GitHub-Home_Vision-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/SCT_ML_1)
 
 ---
 
-### 👥 [Customer Segmentation — SCT_ML_2](https://github.com/Yuvaraj-ui132/SCT_ML_2) — K-Means Clustering
+### 👥 [Customer Segmentation](https://github.com/Yuvaraj-ui132/SCT_ML_2) — K-Means Clustering Dashboard
 > Interactive Streamlit dashboard for customer segmentation using K-Means clustering
 
-- 🧩 **K-Means clustering** with smart optimal-K detection (Elbow method)
+**Tech:** `Python` `Streamlit` `scikit-learn` `Matplotlib`
+
+- 🧩 K-Means clustering with smart optimal-K detection (Elbow method)
 - 📊 Dynamic data generation and rich cluster visualizations
-- 🎯 Helps businesses identify distinct customer personas
-- 🐍 Built with **Python**, scikit-learn, Matplotlib, Streamlit
+- 🎯 Identifies distinct customer personas for business insights
 
 [![Repo](https://img.shields.io/badge/GitHub-Customer_Segmentation-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/SCT_ML_2)
 
 ---
 
-### 🖐️ [Hand Gesture Recognition — SCT_ML_3](https://github.com/Yuvaraj-ui132/Hand-Gesture-Recognition) — Computer Vision
-> Real-time hand gesture recognition using MediaPipe and OpenCV
+### 🖐️ [Hand Gesture Recognition](https://github.com/Yuvaraj-ui132/Hand-Gesture-Recognition) — Computer Vision
+> Real-time hand gesture recognition system using MediaPipe and OpenCV
 
-- 👁️ **Real-time detection** via webcam using **MediaPipe Hands**
-- ✌️ Recognizes multiple gestures for HCI applications
-- 🎥 Built with **Python**, OpenCV, MediaPipe
+**Tech:** `Python` `OpenCV` `MediaPipe`
+
+- 👁️ Real-time gesture detection via webcam using MediaPipe Hands
+- ✌️ Recognizes multiple gestures for HCI and accessibility applications
 
 [![Repo](https://img.shields.io/badge/GitHub-Hand_Gesture_Recognition-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132/Hand-Gesture-Recognition)
 
