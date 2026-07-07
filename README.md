@@ -172,19 +172,29 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 
 </div>
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yuvaraj-ui132&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Yuvaraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvaraj-ui132&theme=tokyo-night&hide_border=true&area=true&point=6E40C9&line=6E40C9&color=ffffff)](https://github.com/Yuvaraj-ui132)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yuvaraj-ui132&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -195,8 +205,8 @@ interests:   ML · Computer Vision · Full Stack · Open Source
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yuvaraj--ui132-181717?style=for-the-badge&logo=github)](https://github.com/Yuvaraj-ui132)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-murkunde)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvaraj@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvaraj%20Murkunde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-murkunde-46a828378)
+[![Gmail](https://img.shields.io/badge/Gmail-yuvarajbmbm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajbmbm@gmail.com)
 
 </div>
 
