@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Yuvaraj Murkunde 👋
 
-Information Science & Engineering student focused on **Software Engineering**, **Backend Systems**, **Data Structures & Algorithms**, and building practical full-stack web applications.
+Information Science & Engineering student focused on **Software Engineering**, **Backend Systems**, **Data Structures & Algorithms**, and building practical full-stack applications.
 
 - 💼 **Focus Areas**: API Design, Asynchronous Processing, Cloud Databases, Clean Architecture
 - 📍 **Location**: Belagavi, Karnataka, India
@@ -32,6 +32,18 @@ An interactive, full-stack tourism discovery and navigation platform for explori
 - **Travel Utilities**: Integrated trip budget/expense manager, wishlist bookmarking, and place review system.
 - **Multi-Platform Access**: Progressive Web App (PWA) with offline caching and responsive mobile/desktop layouts.
 - **Tech Stack**: JavaScript, HTML5, CSS3, Flask / Python, Firebase Authentication, Cloud Firestore, Google Maps API, Firebase Hosting.
+
+---
+
+### 🧪 [SoilAI Cloud Lab — Geotechnical Analytics](https://soilai-691b5.web.app)
+**[🌐 Live Demo](https://soilai-691b5.web.app)** &nbsp;•&nbsp; **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/SoilAi)**
+
+A geotechnical engineering analytics web application for automated soil compaction analysis and distributed cloud synchronization.
+
+- **Engineering Analytics**: Computes Optimum Moisture Content (OMC), Maximum Dry Density (MDD), and moisture curves.
+- **Interactive Visualizations & PDF Reports**: Real-time Chart.js compaction curves and instant engineering PDF export with jsPDF.
+- **Cloud Architecture**: Flask REST API, Firebase Authentication, and Cloud Firestore real-time push sync.
+- **Tech Stack**: Python, Flask, Firebase Authentication, Cloud Firestore, Chart.js, jsPDF, HTML5, CSS3, Firebase Hosting.
 
 ---
 
@@ -72,8 +84,9 @@ An interactive, full-stack tourism discovery and navigation platform for explori
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Links
 
 - **GitHub**: [github.com/Yuvaraj-ui132](https://github.com/Yuvaraj-ui132)
-- **Belagavi Tourism Live**: [belagavi-tourism-planner.web.app](https://belagavi-tourism-planner.web.app)
 - **AlgoQuest Live**: [algoquest-9aab0.web.app](https://algoquest-9aab0.web.app)
+- **Belagavi Tourism Live**: [belagavi-tourism-planner.web.app](https://belagavi-tourism-planner.web.app)
+- **SoilAI Cloud Lab Live**: [soilai-691b5.web.app](https://soilai-691b5.web.app)
