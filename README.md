@@ -10,8 +10,8 @@ Information Science & Engineering student focused on **Software Engineering**, *
 
 ## 🌐 Live Applications
 
-### ⚡ [AlgoQuest — Full-Stack DSA Practice Platform](https://algoquest-9aab0.web.app)
-**[🌐 Live Demo](https://algoquest-9aab0.web.app)** &nbsp;•&nbsp; **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/AlgoQuest)**
+### ⚡ [AlgoQuest — Full-Stack DSA Practice Platform]
+  **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/AlgoQuest)**
 
 A comprehensive DSA preparation platform featuring in-browser multi-language code execution, asynchronous submission processing, real-time Cloud Firestore synchronization, and performance analytics.
 
