@@ -1,4 +1,4 @@
-﻿# Hi, I'm Yuvaraj Murkunde 👋
+# Hi, I'm Yuvaraj Murkunde 👋
 
 Information Science & Engineering student focused on **Software Engineering**, **Backend Systems**, **Data Structures & Algorithms**, and building practical full-stack applications.
 
@@ -23,15 +23,16 @@ A comprehensive DSA preparation platform featuring in-browser multi-language cod
 
 ---
 
-### 🗺️ [Belagavi Tourism Planner](https://belagavi-tourism-planner.web.app)
-**[🌐 Live Demo](https://belagavi-tourism-planner.web.app)** &nbsp;•&nbsp; **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)**
+### 🗺️ [Belagavi Tourism — Cross-Platform AI Tourism & Travel Platform](https://belagavi-tourism-planner.web.app)
+**[🌐 Live Web App](https://belagavi-tourism-planner.web.app)** &nbsp;•&nbsp; **[📱 Android Release (v1.0.0)](https://github.com/Yuvaraj-ui132/Belagavi_Tourism/releases/tag/v1.0.0)** &nbsp;•&nbsp; **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)**
 
-An interactive, full-stack tourism discovery and navigation platform for exploring heritage and natural attractions in Belagavi District.
+A production-deployed cross-platform tourism platform combining a native Android application, responsive PWA, authenticated FastAPI backend, and an AI/RAG travel assistant.
 
-- **Interactive Map & Routing**: GIS place discovery with Google Maps API, marker clustering, distance estimation, and traffic-aware routing.
-- **Travel Utilities**: Integrated trip budget/expense manager, wishlist bookmarking, and place review system.
-- **Multi-Platform Access**: Progressive Web App (PWA) with offline caching and responsive mobile/desktop layouts.
-- **Tech Stack**: JavaScript, HTML5, CSS3, Flask / Python, Firebase Authentication, Cloud Firestore, Google Maps API, Firebase Hosting.
+- **Cross-Platform Implementation**: Native **Android application** (Kotlin, Jetpack Compose, Material 3, Hilt, SDK 34, R8 minification, signed release APK) and responsive **Progressive Web App** (PWA with offline caching).
+- **Grounded AI Travel Assistant (RAG)**: Conversational assistant built with **FastAPI**, **Google Gemini**, and **PostgreSQL + pgvector** semantic retrieval, with **Tavily web research** fallback and deterministic database metadata overlays.
+- **GIS Mapping & Travel Management**: Leaflet & OpenStreetMap GIS discovery, real-time distance and routing, trip budget/expense tracker, wishlist bookmarking, and community reviews.
+- **Security & Production Engineering**: Server-side Firebase ID-token verification (/api/chat), PostgreSQL atomic rate limiting (20 req/min), UID-scoped Firestore security rules, and 102/102 passing backend tests.
+- **Tech Stack**: Kotlin, Jetpack Compose, Python, FastAPI, PostgreSQL (pgvector), Google Gemini, Tavily, Firebase (Auth & Firestore), Leaflet, HTML5/CSS3/ES6+, Firebase Hosting, Vercel.
 
 ---
 
