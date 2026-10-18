@@ -22,8 +22,7 @@ A comprehensive DSA preparation platform featuring in-browser multi-language cod
 - **Tech Stack**: Vanilla JavaScript (SPA), FastAPI, Python 3.11, Firebase Auth, Cloud Firestore, Judge0 CE, Docker, Firebase Hosting.
 
 ---
-
-### 🗺️ [Belagavi Tourism — Cross-Platform AI Tourism & Travel Platform](https://belagavi-tourism-planner.web.app)
+[Belagavi Tourism — Cross-Platform AI Tourism & Travel Platform]
 **[🌐 Live Web App](https://belagavi-tourism-planner.web.app)** &nbsp;•&nbsp; **[📱 Android Release (v1.0.0)](https://github.com/Yuvaraj-ui132/Belagavi_Tourism/releases/tag/v1.0.0)** &nbsp;•&nbsp; **[📂 GitHub Repository](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)**
 
 A production-deployed cross-platform tourism platform combining a native Android application, responsive PWA, authenticated FastAPI backend, and an AI/RAG travel assistant.
