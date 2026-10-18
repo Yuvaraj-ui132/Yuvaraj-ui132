@@ -28,17 +28,27 @@ I build backend systems in Python and FastAPI, from async job queues to RAG-base
 - **Quality:** **239 tests** (including PostgreSQL integration tests), Ruff, GitHub Actions CI, non-root Docker image
 - **Built with:** Python · FastAPI · PostgreSQL · Firebase · Judge0 · Docker
 
-<img src="https://raw.githubusercontent.com/Yuvaraj-ui132/AlgoQuest/main/docs/screenshots/workspace.png" alt="AlgoQuest code workspace" width="640">
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-workspace.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-workspace.png" width="200" alt="AlgoQuest code workspace with an Accepted verdict"></a>
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-history.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-history.png" width="200" alt="AlgoQuest submission history"></a>
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-dashboard.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/algoquest-dashboard.png" width="200" alt="AlgoQuest progress dashboard"></a>
+
+<sub>Click a screenshot to enlarge.</sub>
 
 ### [Belagavi Smart Tourism](https://github.com/Yuvaraj-ui132/Belagavi_Tourism): Android app and PWA with an AI travel guide
 [Live web app](https://belagavi-tourism-planner.web.app) · [Android APK](https://github.com/Yuvaraj-ui132/Belagavi_Tourism/releases/tag/v1.0.0) · [Source](https://github.com/Yuvaraj-ui132/Belagavi_Tourism)
 
 - **Two clients, one backend:** native Android app (Kotlin, Jetpack Compose, MVVM, Hilt) and an offline-capable PWA with Leaflet maps, covering 31 curated destinations
 - **Hybrid RAG assistant:** a query router sends local questions to pgvector semantic search (Gemini embeddings) and time-sensitive ones to Tavily live web research, run concurrently
-- **Fewer hallucinations:** answers are validated against PostgreSQL records, with a fallback across Gemini models if one fails
+- **Hallucination guard:** answers are checked against PostgreSQL records, with a fallback across Gemini models if one fails
 - **Security:** Firebase ID-token verification on the chat endpoint, PostgreSQL-based rate limiting, per-user Firestore rules
 - **Quality:** **102 backend tests**; chat history, wishlist, expenses and reviews synced between web and Android through Firestore
 - **Built with:** Kotlin · Jetpack Compose · FastAPI · PostgreSQL + pgvector · Gemini · Firebase
+
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-ai-guide.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-ai-guide.png" width="200" alt="Belagavi AI Travel Guide on the web"></a>
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-map.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-map.png" width="200" alt="Belagavi interactive map of 31 destinations"></a>
+<a href="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-android-chat.png"><img src="https://raw.githubusercontent.com/Yuvaraj-ui132/Yuvaraj-ui132/main/assets/belagavi-android-chat.png" width="110" alt="Belagavi AI Guide in the Android app"></a>
+
+<sub>Click a screenshot to enlarge.</sub>
 
 ### [SoilAI Cloud Lab](https://github.com/Yuvaraj-ui132/SoilAi): soil compaction analysis for geotechnical engineering
 [Live demo](https://soilai-691b5.web.app/soil-test) · [Source](https://github.com/Yuvaraj-ui132/SoilAi)
